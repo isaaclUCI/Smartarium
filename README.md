@@ -29,4 +29,4 @@ Simple, lab-style firmware that reads **DHT22 temperature & humidity**, **capaci
 ## Build & Run (PlatformIO)
 ```bash
 pio run -t upload
-pio device monitor    # 9600 baud
+pio device monitor
